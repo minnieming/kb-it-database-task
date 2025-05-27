@@ -5,13 +5,97 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="2289e24c-8d90-4a7a-8b92-9107c9066cae" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/gradle.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/jarRepositories.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/KBDatabaseTask.main.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/KBDatabaseTask.test.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/KBDatabaseTask.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build.gradle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/resources/main/logback.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gradle/wrapper/gradle-wrapper.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gradle/wrapper/gradle-wrapper.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gradlew" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gradlew.bat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/settings.gradle" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sql/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/sql/mongoDB/01/basic/01_MongoDB (기본).sql" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/mongoDB/mongoDb_01/basic/basic_01_MongoDB (기본).sql" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sql/mysql/01/advanced/01_world-city.png" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/mysql/mysql_01/advanced/world-city_01.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sql/mysql/01/advanced/02_world-country.png" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/mysql/mysql_01/advanced/world-country_02.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sql/mysql/01/advanced/03_world-countrylanguage.png" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/mysql/mysql_01/advanced/world-countrylanguage_03.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sql/mysql/01/advanced/04_employees-departments.png" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/mysql/mysql_01/advanced/employees-departments_04.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sql/mysql/01/advanced/05_employees-dept_emp.png" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/mysql/mysql_01/advanced/employees-dept_emp_05.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sql/mysql/01/advanced/06_employees-dept_manager.png" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/mysql/mysql_01/advanced/employees-dept_manager_06.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sql/mysql/01/advanced/07_employees-employees.png" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/mysql/mysql_01/advanced/employees-employees_07.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sql/mysql/01/advanced/08_employees-salaries.png" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/mysql/mysql_01/advanced/employees-salaries_08.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sql/mysql/01/advanced/09_employees-titles.png" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/mysql/mysql_01/advanced/employees-titles_09.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sql/mysql/01/basic/01_sakila,world.png" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/mysql/mysql_01/basic/sakila,world_01.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sql/mysql/01/basic/02_employees.png" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/mysql/mysql_01/basic/employees_02.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sql/mysql/02/advanced/01_tbl_board.png" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/mysql/mysql_02/advanced/tbl_board_01.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sql/mysql/02/advanced/02_insert-tbl_board.png" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/mysql/mysql_02/advanced/insert-tbl_board_02.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sql/mysql/02/advanced/03.sql" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/mysql/mysql_02/advanced/sql_03.sql" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sql/mysql/02/advanced/04_sakila-actor.png" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/mysql/mysql_02/advanced/sakila-actor_04.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sql/mysql/02/advanced/05_sakila-address.png" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/mysql/mysql_02/advanced/sakila-address_05.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sql/mysql/02/advanced/06_sakila-category.png" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/mysql/mysql_02/advanced/sakila-category_06.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sql/mysql/02/advanced/07_sakila-city.png" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/mysql/mysql_02/advanced/sakila-city_07.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sql/mysql/02/advanced/08_sakila-country.png" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/mysql/mysql_02/advanced/sakila-country_08.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sql/mysql/02/advanced/09_sakila-customer.png" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/mysql/mysql_02/advanced/sakila-customer_09.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sql/mysql/02/advanced/10_sakila-film.png" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/mysql/mysql_02/advanced/sakila-film_10.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sql/mysql/02/advanced/11_sakila-film_actor.png" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/mysql/mysql_02/advanced/sakila-film_actor_11.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sql/mysql/02/advanced/12_sakila-film_category.png" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/mysql/mysql_02/advanced/sakila-film_category_12.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sql/mysql/02/advanced/13_sakila-film_text.png" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/mysql/mysql_02/advanced/sakila-film_text_12.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sql/mysql/02/advanced/14_sakila-inventory.png" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/mysql/mysql_02/advanced/sakila-inventory_14.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sql/mysql/02/advanced/15_sakila-language.png" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/mysql/mysql_02/advanced/sakila-language_15.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sql/mysql/02/advanced/16_sakila-payment.png" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/mysql/mysql_02/advanced/sakila-payment_16.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sql/mysql/02/advanced/17_sakila-rental.png" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/mysql/mysql_02/advanced/sakila-rental_17.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sql/mysql/02/advanced/18_sakila-staff.png" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/mysql/mysql_02/advanced/sakila-staff_18.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sql/mysql/02/advanced/스크린샷 2025-05-13 오후 4.50.27.png" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/mysql/mysql_02/advanced/sql.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sql/mysql/02/basic/01_shopdb.png" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/mysql/mysql_02/basic/shopdb_01.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sql/mysql/02/basic/02_shopdb-memberTBL.png" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/mysql/mysql_02/basic/shopdb-memberTBL_02.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sql/mysql/02/basic/03_shopdb-productTBL.png" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/mysql/mysql_02/basic/shopdb-productTBL_03.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sql/mysql/02/basic/04_insert-memberTBL.png" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/mysql/mysql_02/basic/insert-memberTBL_04.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sql/mysql/02/basic/05_insert-productTBL.png" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/mysql/mysql_02/basic/insert-productTBL_05.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sql/mysql/02/basic/06_insert-memberTBL.png" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/mysql/mysql_02/basic/insert-memberTBL_06.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sql/mysql/02/basic/07_delete-memberTBL.png" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/mysql/mysql_02/basic/delete-memberTBL_07.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sql/mysql/02/basic/08.sql" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/mysql/mysql_02/basic/sql_08.sql" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sql/mysql/03/basic/01.sql" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/mysql/mysql_03/basic/sql_01.sql" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sql/mysql/03/basic/02.png" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/mysql/mysql_03/basic/sql_02.png" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="ExternalProjectsManager">
+    <system id="GRADLE">
+      <state>
+        <task path="$PROJECT_DIR$/sql/settings.gradle">
+          <activation />
+        </task>
+        <task path="$PROJECT_DIR$">
+          <activation />
+        </task>
+        <projects_view>
+          <tree_state>
+            <expand>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="KBDatabaseTask" type="f1a62948:ProjectNode" />
+              </path>
+            </expand>
+            <select />
+          </tree_state>
+        </projects_view>
+      </state>
+    </system>
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -36,45 +120,73 @@
   <component name="ProjectViewState">
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
-    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
-    &quot;last_opened_file_path&quot;: &quot;/Users/minnie/intelliJ_workspace/KBDatabaseTask&quot;,
-    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
-    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
-    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
-    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
-    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.keymap&quot;,
-    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Gradle./Users/minnie/intelliJ_workspace/KBDatabaseTask/sql/settings.gradle.executor": "Run",
+    "Gradle.Build KBDatabaseTask.executor": "Run",
+    "Gradle.KBDatabaseTask [build].executor": "Run",
+    "Gradle.KBDatabaseTask.executor": "Run",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "git-widget-placeholder": "main",
+    "jdk.selected.JAVA_MODULE": "17",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "/Users/minnie/intelliJ_workspace/KBDatabaseTask/src/main/resources",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "project.structure.last.edited": "Modules",
+    "project.structure.proportion": "0.15",
+    "project.structure.side.proportion": "0.2",
+    "settings.editor.selected.configurable": "preferences.pluginManager",
+    "vue.rearranger.settings.migration": "true"
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/main/resources" />
+      <recent name="$PROJECT_DIR$" />
+      <recent name="$PROJECT_DIR$/sql" />
+    </key>
     <key name="MoveFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$/sql/mongoDB/01/basic" />
-      <recent name="$PROJECT_DIR$/sql/mysql/03/advanced" />
-      <recent name="$PROJECT_DIR$/sql/mysql/03/basic" />
-      <recent name="$PROJECT_DIR$/sql/mysql/02/advanced" />
-      <recent name="$PROJECT_DIR$/sql/mysql/02/basic" />
+      <recent name="$PROJECT_DIR$/src/test/java" />
+      <recent name="$PROJECT_DIR$/src/main/javas" />
+      <recent name="$PROJECT_DIR$/src" />
+      <recent name="$PROJECT_DIR$/src/main/java" />
+      <recent name="$PROJECT_DIR$" />
     </key>
   </component>
   <component name="RunManager">
-    <configuration default="true" type="JetRunConfigurationType">
-      <module name="KBDatabaseTask" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
+    <configuration name="KBDatabaseTask [build]" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list>
+            <option value="build" />
+          </list>
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <ExternalSystemDebugServerProcess>true</ExternalSystemDebugServerProcess>
+      <ExternalSystemReattachDebugProcess>true</ExternalSystemReattachDebugProcess>
+      <DebugAllEnabled>false</DebugAllEnabled>
+      <RunAsTest>false</RunAsTest>
+      <method v="2" />
     </configuration>
-    <configuration default="true" type="KotlinStandaloneScriptRunConfigurationType">
-      <module name="KBDatabaseTask" />
-      <option name="filePath" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Gradle.KBDatabaseTask [build]" />
+      </list>
+    </recent_temporary>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
@@ -101,10 +213,30 @@
       <workItem from="1748242717003" duration="178000" />
       <workItem from="1748242897447" duration="88000" />
       <workItem from="1748242991291" duration="8000" />
+      <workItem from="1748243002052" duration="287000" />
+      <workItem from="1748243292498" duration="6000" />
+      <workItem from="1748246024045" duration="139000" />
+      <workItem from="1748309698851" duration="3234000" />
+      <workItem from="1748329497007" duration="708000" />
+      <workItem from="1748330220533" duration="1225000" />
+      <workItem from="1748331454875" duration="55000" />
+      <workItem from="1748331526353" duration="165000" />
+      <workItem from="1748332734145" duration="3008000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
 </project>
