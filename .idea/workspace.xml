@@ -5,8 +5,6 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="2289e24c-8d90-4a7a-8b92-9107c9066cae" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/mysql/mysql_04/basic_04_mysql.sql" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -97,11 +95,11 @@
       <recent name="$PROJECT_DIR$/sql" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/main/java/mysql/mysql_06" />
+      <recent name="$PROJECT_DIR$/src/main/java/mysql/mysql_05" />
       <recent name="$PROJECT_DIR$/src/main/java/mysql/mysql_04" />
       <recent name="$PROJECT_DIR$/src/test/java" />
       <recent name="$PROJECT_DIR$/src/main/javas" />
-      <recent name="$PROJECT_DIR$/src" />
-      <recent name="$PROJECT_DIR$/src/main/java" />
     </key>
   </component>
   <component name="RunManager">
@@ -166,7 +164,7 @@
       <workItem from="1748330220533" duration="1225000" />
       <workItem from="1748331454875" duration="55000" />
       <workItem from="1748331526353" duration="165000" />
-      <workItem from="1748332734145" duration="3365000" />
+      <workItem from="1748332734145" duration="3788000" />
     </task>
     <servers />
   </component>
